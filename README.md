@@ -41,8 +41,8 @@ A stunning, modern medical summarization web application built for the ESYA'25 H
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd medical-summarizer
+   git clone https://github.com/HARSHCRR/HARSH.git
+   cd HARSH
    ```
 
 2. **Install dependencies**
